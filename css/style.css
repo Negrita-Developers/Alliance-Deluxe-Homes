@@ -9157,6 +9157,7 @@ textarea.form-control {
   }
   .owl-item{
     overflow: auto -webkit-paged-y;
+    touch-action: auto;
   }
   .owl-carousel.home-slider {
     position: relative;
